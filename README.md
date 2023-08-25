@@ -9,7 +9,7 @@
 <br/> 
 
 <a href="https://github.com/XingYu-Zhong">
-    <img src="https://github-stats-alpha.vercel.app/api?username=dioptx&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=XingYu-Zhong&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
 
