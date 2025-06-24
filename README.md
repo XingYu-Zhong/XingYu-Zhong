@@ -19,11 +19,11 @@
 ### 🛸 Welcome aboard! 🛸
 
 
-* 🎓 Conducting research on **AI** and **Financial Time Series**
+* 🎓 Conducting research on **AI coding** and **Financial Time Series**
 
 * 💡 Open to exchange ideas and business opportunities.
 
-* 💻 Currently study on AI quant systems and LLMs
+* 💻 Currently study on AI Coding and LLMs
 
 📫 Drop me an email at: zhongxingyuemail@gmail.com
 
